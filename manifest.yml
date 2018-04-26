@@ -1,0 +1,4 @@
+---
+applications:
+  - name: pcf-email-thymeleaf-example
+    path: target/pcf-email-thymeleaf-example-0.0.1-SNAPSHOT.jar
